@@ -1,2 +1,2 @@
-DATE 
+date 
 echo "hello, $USER"
